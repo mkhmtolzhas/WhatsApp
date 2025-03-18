@@ -4,4 +4,4 @@
 
 
 ## Dashboard
-- (Dashboard.jpg)
+- [Dashboard.jpg](https://github.com/mkhmtolzhas/WhatsApp/blob/main/Dashboard.jpg?raw=true)
